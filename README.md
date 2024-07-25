@@ -1,5 +1,5 @@
 # OIH_Report
-This GitHub repository contains all codes and documentation created for targeting microbes in the digital ecosystems of ODIS and OBIS. This work was done in the context of a short Masters project of Marmic - Max Planck School of Marine Microbiology, for UNESCO and the UN Ocean Decade variable.
+This GitHub repository contains all codes and documentation created for targeting microbes in the digital ecosystems of ODIS and OBIS. This work was done in the context of a short Masters project of Marmic - Max Planck School of Marine Microbiology. By pioneering a new approach to collecting marine data, our work lays the foundation for the Global Ocean Observing System (GOOS) and contributes to the specification sheet for the Microbial Essential Ocean Variable.
 
 
 # Project Documentation
